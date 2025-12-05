@@ -20,3 +20,8 @@ static/
 *.log.*.*.*.*
 *.log.*.*.*.*.*
 
+# Json files
+*.json
+
+# vscode files
+.vscode/
